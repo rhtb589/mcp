@@ -1,0 +1,22 @@
+{
+    "food":[
+        "breakfast",
+        "lunch",
+        "evenning snacks",
+        "dinner",
+        "diet"
+    ],
+    "travel":[
+        "solo_trip",
+        "shopping",
+        "family_meet",
+        "hangout",
+        "job"
+    ],
+    "event":[
+        "meeting",
+        "tournament",
+        "gaming",
+        "health_checkup"
+    ]
+}
