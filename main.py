@@ -46,6 +46,6 @@ def categories():
     with open(categories_path , "r" , encoding="utf-8") as f:
         return f.read()
 
-
+app = mcp.asgi_app
 if __name__ == "__main__":
     mcp.run()
